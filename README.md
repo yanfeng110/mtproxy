@@ -10,6 +10,8 @@ MTProxyTLS 一键安装绿色脚本 [English](README-en.md)
 
 ```bash
 mkdir /home/mtproxy && cd /home/mtproxy
+```
+```bash
 curl -s -o mtproxy.sh https://raw.githubusercontent.com/ellermister/mtproxy/master/mtproxy.sh && chmod +x mtproxy.sh && bash mtproxy.sh
 ```
 
